@@ -11,7 +11,7 @@
 
 
 	<bean name="a1" class="org.mql.biblio.models.Author">
-		<property name="id" value="101" />
+		<property name="id" value="1005" />
 		<property name="name" value="Rod Jhonson" />
 		<property name="yearBorn" value="1970" />
 
